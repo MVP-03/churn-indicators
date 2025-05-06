@@ -1,0 +1,16 @@
+account_id,company,mrr_usd,logins_last_90d,seats_used,seats_total,open_support_tickets,days_since_last_login,days_since_onboarding,nps_score
+a-001,Meridian SaaS,4200,48,18,20,1,3,280,9
+a-002,Apex Fintech,9800,12,8,25,4,22,410,5
+a-003,Gamma Health,2100,3,2,10,6,45,190,4
+a-004,Delta Corp,15000,62,40,45,0,1,520,8
+a-005,Prism Analytics,3600,28,12,15,2,8,350,7
+a-006,Northstar Pay,7200,6,5,20,5,38,240,3
+a-007,Echo Commerce,1800,35,8,10,1,5,160,8
+a-008,Summit EdTech,900,2,1,5,3,55,90,4
+a-009,Vortex Dev,11000,55,30,35,0,2,600,9
+a-010,Cascade HR,2400,8,4,12,4,30,200,5
+a-011,Pillar Capital,18000,70,50,55,0,1,720,10
+a-012,Reef Analytics,5100,22,15,18,2,12,380,7
+a-013,Orbit Security,8400,40,25,30,1,4,450,8
+a-014,Terrain Logistics,3200,4,3,15,7,48,150,3
+a-015,Flux Marketplace,6600,15,10,22,3,25,310,6
